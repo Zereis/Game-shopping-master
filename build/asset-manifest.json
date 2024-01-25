@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14dcc51c.css",
+    "main.js": "/static/js/main.0d71ddd2.js",
+    "static/media/saleImgThree.png": "/static/media/saleImgThree.17dd251f39a839d545a6.png",
+    "static/media/bannerImgOne.jpg": "/static/media/bannerImgOne.419a06a0e3e8f2844e94.jpg",
+    "static/media/bannerImgTwo.jpg": "/static/media/bannerImgTwo.b6474e7fdb46b28f0f85.jpg",
+    "static/media/saleImgTwo.jpeg": "/static/media/saleImgTwo.c413569b7fc38cc69cce.jpeg",
+    "static/media/bannerImgThree.webp": "/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
+    "static/media/saleImgOne.jpg": "/static/media/saleImgOne.d5c5137c8605801ab050.jpg",
+    "static/media/payment.png": "/static/media/payment.3e00cc601c9e7fc1e7d3.png",
+    "static/media/productOfTheYear.webp": "/static/media/productOfTheYear.2c30f10b51873bab4630.webp",
+    "static/media/newArrTwo.jpeg": "/static/media/newArrTwo.bac76e5348ed62be3b9a.jpeg",
+    "static/media/bestSellerThree.webp": "/static/media/bestSellerThree.8caffcd1cd1c67b4a340.webp",
+    "static/media/bestSellerTwo.webp": "/static/media/bestSellerTwo.c2641a76c189fcc71670.webp",
+    "static/media/bestSellerFour.webp": "/static/media/bestSellerFour.0b34fdc5232f2dcf997b.webp",
+    "static/media/bestSellerOne.webp": "/static/media/bestSellerOne.988208d74cc332fccc11.webp",
+    "static/media/newArrThree.jpeg": "/static/media/newArrThree.967e708b3ffa5995629b.jpeg",
+    "static/media/newArrOne.jpg": "/static/media/newArrOne.87cc7014df7a18f93e33.jpg",
+    "static/media/emptyCart.png": "/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/spfThree.webp": "/static/media/spfThree.226da6ea085a91db0352.webp",
+    "static/media/spfOne.webp": "/static/media/spfOne.af2c5aa8d8015ffcccf4.webp",
+    "static/media/spfTwo.webp": "/static/media/spfTwo.3dd358b9c31a7587b4d9.webp",
+    "static/media/spfFour.webp": "/static/media/spfFour.d005441cba54d7214bf7.webp",
+    "static/media/newArrFour.webp": "/static/media/newArrFour.a41bb9739df296127825.webp",
+    "index.html": "/index.html",
+    "main.14dcc51c.css.map": "/static/css/main.14dcc51c.css.map",
+    "main.0d71ddd2.js.map": "/static/js/main.0d71ddd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14dcc51c.css",
+    "static/js/main.0d71ddd2.js"
+  ]
+}
